@@ -47,7 +47,7 @@
 }
 
 .rightbox>div{
-    width: 200px;
+    flex-basis: 200px;
     height: 130px;
     margin: 10px;
     background-color: #ff0;
